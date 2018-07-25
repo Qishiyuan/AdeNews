@@ -1,2 +1,2 @@
 Hello world!
-Hello Java & Android!
+Hello Java and Android! 
